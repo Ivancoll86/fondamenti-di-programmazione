@@ -12,7 +12,7 @@ printf("Cognome: ");
 scanf("%s", "Nome");
 
 scanf("%s", Cognome);
-printf("\n Benvenuto," Nome Cognome!" \t%s\n\n\n");
+printf("\n Benvenuto," Nome Cognome! \t%s\n\n\n);
 
  printf("\n Grazie per aver usato il nostro programma.  
 Ti auguriamo Buone Feste")
